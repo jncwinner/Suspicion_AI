@@ -1,0 +1,6 @@
+RBotRandom.class
+RBotRandom.class
+bestPlayer4.class
+bestPlayer3.class
+bestPlayer2.class
+bestPlayer.class
